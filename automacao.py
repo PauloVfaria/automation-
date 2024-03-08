@@ -11,7 +11,7 @@ import time
 # pyautogui.hotkey -> combinação de teclas
 pyautogui.PAUSE = 0.3
 
-# abrir o navegador (chrome)
+# abrir o navegador (opera)
 pyautogui.press("win")
 pyautogui.write("opera")
 pyautogui.press("enter")
